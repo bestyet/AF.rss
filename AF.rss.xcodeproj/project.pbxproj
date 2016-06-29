@@ -80,9 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				E5AC877B1D247C0A00CD142A /* AppDelegate.swift */,
-				E5AC877D1D247C0A00CD142A /* MasterViewController.swift */,
-				E5AC877F1D247C0A00CD142A /* DetailViewController.swift */,
-				E5AC87811D247C0A00CD142A /* Main.storyboard */,
+				E5AC879D1D24857B00CD142A /* RssFeed */,
 				E5AC87841D247C0A00CD142A /* Assets.xcassets */,
 				E5AC87861D247C0A00CD142A /* LaunchScreen.storyboard */,
 				E5AC87891D247C0A00CD142A /* Info.plist */,
@@ -97,6 +95,16 @@
 				E5AC87941D247C0A00CD142A /* Info.plist */,
 			);
 			path = AF.rssUITests;
+			sourceTree = "<group>";
+		};
+		E5AC879D1D24857B00CD142A /* RssFeed */ = {
+			isa = PBXGroup;
+			children = (
+				E5AC87811D247C0A00CD142A /* Main.storyboard */,
+				E5AC877D1D247C0A00CD142A /* MasterViewController.swift */,
+				E5AC877F1D247C0A00CD142A /* DetailViewController.swift */,
+			);
+			name = RssFeed;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
